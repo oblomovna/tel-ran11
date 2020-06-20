@@ -14,3 +14,6 @@ git push
 
  autocomit 1 
 
+
+ autocomit 2 
+
