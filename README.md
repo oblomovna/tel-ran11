@@ -11,21 +11,6 @@ sleep 1
 done
 git push
 
-
- autocomit 1 
-
-
- autocomit 2 
-
-
- autocomit 3 
-
-
- autocommit 1 
-
-
- autocommit 2 
-
-
- autocommit 3 
+ 
+ 
 
